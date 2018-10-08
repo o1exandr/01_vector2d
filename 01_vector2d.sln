@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_vector2d", "01_vector2d\01_vector2d.csproj", "{F689EAA9-4BC1-40E8-B255-009B490CC5C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F689EAA9-4BC1-40E8-B255-009B490CC5C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F689EAA9-4BC1-40E8-B255-009B490CC5C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F689EAA9-4BC1-40E8-B255-009B490CC5C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F689EAA9-4BC1-40E8-B255-009B490CC5C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80BF27EA-56A3-426A-9380-0873C81A683E}
+	EndGlobalSection
+EndGlobal
